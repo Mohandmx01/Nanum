@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 # Database connection details
 DB_USER = 'postgres'
-DB_PASSWORD = 'Iphone14pro'
+DB_PASSWORD = '33333'
 DB_HOST = 'localhost'
 DB_PORT = '5432'
 DB_NAME = 'nanum'
